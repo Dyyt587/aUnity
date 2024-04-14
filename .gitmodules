@@ -1,0 +1,12 @@
+[submodule "afifo"]
+	path = afifo
+	url = https://github.com/Dyyt587/afifo.git
+[submodule "alist"]
+	path = alist
+	url = https://github.com/Dyyt587/alist.git
+[submodule "cvector"]
+	path = cvector
+	url = https://github.com/Dyyt587/cvector.git
+[submodule "acheck"]
+	path = acheck
+	url = https://github.com/Dyyt587/acheck.git
